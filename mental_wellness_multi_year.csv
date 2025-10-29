@@ -1,0 +1,101 @@
+Date,Mood Score,Sleep Hours,Exercise (min),Social Interactions,Stress Level,Category,Type,Notes
+2020-11-14,4,4.8,14,1,8,Recovery,Weekend,Busy day
+2022-03-29,10,5.8,44,0,6,Peak,Sick Day,Distracted
+2025-05-21,8,6.5,40,4,9,Low,Sick Day,Focused
+2022-12-02,7,7.3,7,3,5,Recovery,Sick Day,Great mood
+2020-10-16,7,9.0,36,3,7,Routine,Holiday,Felt productive
+2016-09-07,3,8.6,58,0,9,Low,Weekend,Good energy
+2016-03-11,4,7.5,49,3,10,Routine,Workday,Felt productive
+2018-07-20,8,8.8,28,5,5,Low,Sick Day,Slept well
+2018-06-01,1,8.5,60,0,1,Peak,Weekend,Overwhelmed
+2022-07-18,2,8.6,53,4,6,Low,Weekend,Great mood
+2017-05-04,4,8.6,60,0,6,Routine,Weekend,Good energy
+2019-07-11,1,8.3,46,0,2,Recovery,Holiday,Distracted
+2021-05-17,1,8.1,2,1,6,Low,Workday,Anxious morning
+2018-09-26,4,8.3,34,0,8,Routine,Workday,Slept well
+2019-08-26,8,6.3,5,2,4,Recovery,Workday,Anxious morning
+2018-09-07,8,5.0,27,3,2,Recovery,Sick Day,Busy day
+2020-11-27,6,8.1,1,1,10,Routine,Sick Day,Busy day
+2018-03-01,3,8.6,52,0,9,Recovery,Workday,Low motivation
+2018-10-06,2,5.6,49,4,5,Peak,Holiday,Felt productive
+2024-02-16,5,4.4,42,0,6,Recovery,Sick Day,Meditated
+2022-12-08,9,7.5,19,3,8,Peak,Sick Day,Good energy
+2025-02-21,4,5.2,34,4,2,Recovery,Workday,Socialized a lot
+2016-08-23,2,7.6,11,4,5,Recovery,Weekend,Skipped exercise
+2021-09-21,9,5.9,2,4,8,Low,Workday,Anxious morning
+2020-03-21,2,4.2,16,5,8,Recovery,Workday,Felt productive
+2021-04-24,3,8.6,5,5,4,Low,Workday,Focused
+2018-03-24,8,8.6,2,0,1,Peak,Sick Day,Good energy
+2024-04-22,3,6.9,34,0,8,Recovery,Weekend,Great mood
+2019-01-12,4,7.7,29,4,3,Routine,Weekend,Focused
+2018-06-13,5,4.7,49,1,2,Routine,Workday,Low motivation
+2022-10-17,9,8.4,2,5,5,Low,Sick Day,Busy day
+2025-03-30,4,6.1,48,2,6,Low,Holiday,Socialized a lot
+2024-05-07,2,6.5,39,5,1,Low,Holiday,Anxious morning
+2016-06-10,6,5.1,27,5,4,Routine,Weekend,Good energy
+2023-01-11,10,6.0,13,1,1,Peak,Workday,Relaxed
+2025-12-12,9,5.3,7,3,1,Routine,Weekend,Focused
+2020-11-28,9,7.5,31,3,8,Peak,Workday,Good energy
+2019-03-02,8,8.6,14,1,5,Recovery,Sick Day,Good energy
+2019-01-02,6,8.4,34,4,10,Recovery,Weekend,Distracted
+2019-01-18,3,7.3,4,0,3,Recovery,Weekend,Good energy
+2018-09-02,6,6.7,9,2,4,Low,Sick Day,Relaxed
+2021-10-31,3,6.6,29,3,8,Routine,Weekend,Focused
+2018-08-13,9,4.7,25,4,4,Routine,Weekend,Relaxed
+2017-04-19,2,5.5,58,4,2,Recovery,Weekend,Relaxed
+2021-05-15,9,8.4,58,0,5,Recovery,Workday,Good energy
+2019-10-31,4,5.4,56,0,7,Routine,Workday,Distracted
+2016-05-02,2,7.2,59,4,10,Routine,Weekend,Felt productive
+2019-04-15,3,6.2,5,1,7,Peak,Workday,Relaxed
+2023-06-21,7,4.4,21,4,2,Peak,Workday,Distracted
+2020-12-30,2,6.9,37,1,9,Routine,Holiday,Relaxed
+2025-08-17,7,5.8,37,4,9,Peak,Sick Day,Meditated
+2016-08-15,1,7.1,48,3,10,Recovery,Holiday,Skipped exercise
+2018-03-06,10,4.7,35,2,9,Low,Workday,Anxious morning
+2022-01-13,6,7.8,21,2,7,Routine,Holiday,Low motivation
+2025-09-16,2,8.1,48,5,6,Low,Holiday,Meditated
+2023-03-02,5,6.8,25,1,6,Routine,Holiday,Focused
+2025-03-16,7,8.0,17,3,3,Low,Holiday,Socialized a lot
+2024-04-22,9,6.2,8,0,7,Routine,Weekend,Focused
+2018-06-14,2,6.9,21,2,3,Low,Weekend,Overwhelmed
+2025-03-08,7,4.1,55,2,5,Routine,Workday,Anxious morning
+2018-12-07,3,5.5,15,4,1,Peak,Holiday,Busy day
+2022-04-15,2,8.6,38,3,4,Peak,Weekend,Socialized a lot
+2023-07-05,7,7.8,11,4,2,Routine,Sick Day,Great mood
+2023-10-20,4,6.9,56,0,8,Peak,Weekend,Great mood
+2024-05-24,1,5.7,39,5,2,Peak,Weekend,Socialized a lot
+2023-01-04,5,7.7,60,1,1,Peak,Weekend,Great mood
+2025-06-24,2,6.9,46,1,1,Routine,Weekend,Socialized a lot
+2023-05-19,2,6.5,36,1,8,Low,Weekend,Meditated
+2022-01-08,7,5.7,58,1,10,Routine,Holiday,Meditated
+2017-06-05,1,6.0,7,1,8,Peak,Weekend,Great mood
+2016-11-07,10,7.9,23,5,6,Peak,Sick Day,Low motivation
+2023-09-07,3,4.3,30,0,9,Low,Workday,Skipped exercise
+2019-03-25,8,6.2,39,1,8,Routine,Sick Day,Great mood
+2023-10-06,4,5.3,57,1,1,Recovery,Sick Day,Distracted
+2019-12-28,9,6.3,19,0,2,Routine,Sick Day,Felt productive
+2022-10-03,4,8.2,57,4,3,Routine,Sick Day,Poor sleep
+2023-05-31,3,8.5,54,2,8,Routine,Workday,Socialized a lot
+2025-04-03,10,4.7,41,4,7,Routine,Weekend,Slept well
+2018-09-07,7,8.1,41,1,2,Peak,Weekend,Relaxed
+2024-07-11,5,7.8,22,0,1,Routine,Weekend,Slept well
+2017-04-14,3,4.6,27,1,9,Low,Workday,Skipped exercise
+2018-06-14,6,5.9,20,4,4,Low,Sick Day,Overwhelmed
+2021-03-28,1,7.5,53,0,4,Peak,Sick Day,Relaxed
+2020-01-11,8,7.6,23,5,8,Routine,Workday,Busy day
+2025-02-26,2,5.4,25,4,6,Routine,Workday,Low motivation
+2022-05-22,3,6.7,51,3,2,Recovery,Sick Day,Poor sleep
+2020-12-29,7,8.0,50,5,9,Low,Weekend,Poor sleep
+2023-04-09,9,6.2,13,5,9,Peak,Holiday,Distracted
+2023-08-30,8,7.7,55,5,1,Routine,Workday,Good energy
+2024-01-12,8,6.7,14,0,8,Peak,Sick Day,Meditated
+2017-03-16,1,8.7,16,3,5,Peak,Workday,Busy day
+2019-10-21,1,9.0,53,1,1,Low,Weekend,Good energy
+2016-04-28,5,8.9,33,0,5,Peak,Weekend,Socialized a lot
+2019-08-27,5,5.6,17,4,9,Recovery,Weekend,Felt productive
+2018-02-25,2,5.8,41,0,4,Recovery,Holiday,Meditated
+2018-12-27,1,7.2,57,4,2,Recovery,Workday,Low motivation
+2020-12-30,10,8.6,17,5,2,Low,Workday,Skipped exercise
+2021-08-10,5,7.7,0,3,6,Routine,Weekend,Meditated
+2024-04-23,2,8.1,28,0,4,Routine,Sick Day,Great mood
+2020-08-25,10,7.6,30,0,9,Recovery,Workday,Socialized a lot
